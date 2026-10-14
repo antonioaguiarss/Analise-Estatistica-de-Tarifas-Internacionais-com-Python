@@ -57,8 +57,5 @@ A rota com maior desvio padrão tem maior variação absoluta em USD; a rota com
 ## Tecnologias
 Python, pandas, NumPy e Matplotlib.
 
-## Ideia para apresentar em entrevista
-“Criei uma análise em Python para comparar a estabilidade dos custos de frete por rota. Além da média e do desvio padrão, usei o coeficiente de variação para comparar rotas com custos-base diferentes e o método IQR para destacar observações atípicas. O resultado é um relatório reproduzível que direciona a investigação para as rotas e períodos com maior volatilidade.”
-
 ---
 **Aviso:** todos os valores desta base são inventados para fins educacionais e não representam cotações reais de mercado.
